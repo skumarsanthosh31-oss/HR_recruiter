@@ -1,0 +1,4 @@
+Candidate Name: Alex Johnson
+Skills: Python, FastAPI, Docker, PostgreSQL, Agentic AI, LangChain
+Experience: 3 years as a Backend Developer building scalable APIs.
+Education: B.Tech in Computer Science
